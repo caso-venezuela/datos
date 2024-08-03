@@ -7,4 +7,6 @@ Los datos que se visualizan en este repositorio son de interés público que tie
 
 Descargue las siguientes [Actas de votación](magnet:?xt=urn:btih:593db592ed517e0f829666cd03be9c9b58a1c46d&dn=actas "Actas de votación"):
 
+```bash
 magnet:?xt=urn:btih:593db592ed517e0f829666cd03be9c9b58a1c46d&dn=actas
+```
